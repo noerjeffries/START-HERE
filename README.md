@@ -5,9 +5,9 @@ Get to know all about the project, where you can help and where to find importan
 ## Table of content:
 
  1. [What is this project about?](#what-is-this-project-about)
- 2. [Who is working on it?](#who-is-working-on it)
- 3. [How can I contribute?](#how-can-I-contribute)
- 4. [How do I set everything up?](#how-do-I-set-everything-up)
+ 2. [Who is working on it?](#who-is-working-on-it)
+ 3. [How can I contribute?](#how-can-i-contribute)
+ 4. [How do I set everything up?](#how-do-i-set-everything-up)
  5. [License](#license)
 
 
