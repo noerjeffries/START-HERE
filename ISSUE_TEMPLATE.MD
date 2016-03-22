@@ -15,6 +15,3 @@ _here you can type in your input_
 
 _here you can type in your input_
 
-#### IMPORTANT:
-
-Please add these suggestions to the [onboarding issues](https://github.com/WorldBrain/START-HERE/issues) **OR, if possible**, consider fixing them immediately and submit a pull request. Thanks :)
