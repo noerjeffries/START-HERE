@@ -1,20 +1,20 @@
 ## Table of content
- 1. My first time here
- 2. Where can I  help?
-  - Infrastructure
-  - Feature Development
-  - Bug Fixing
-  - Adding Feature Requests
-  - Adding Bugs
-
+ 1. [My first time here](#my-first-time-here)
+ 2. [Where can I currently help?](#where-can-i-currently-help)
+  - [Infrastructure](#1-infrastructure-visit-repo)
+  - [Feature Development](#2-feature-development-visit-repo)
+  - [Bug Fixing](#3-bug-fixing)
+  - [Found a Bug?](#4-found-a-bug)  
+  - [Feature Requests](#5-feature-requests)
  3. [How to set everything up](https://github.com/WorldBrain/aa-START-HERE/blob/master/HOW-TO-SETUP.md)
- 4. My first pull request
+ 4. [My first pull request](#my-first-pull-request)
 
 
 <br>
 ## My first time here:
 
-Welcome to the WorldBrain project, glad that you made it here.
+Welcome to the WorldBrain project, glad that you made it here. 
+So you want to contribute? How do we go from here?
 
 #### 1. Please introduce yourself in our gitter chat: 
 
@@ -23,9 +23,10 @@ Welcome to the WorldBrain project, glad that you made it here.
 **...and add the following info:** 
   1. Who are you? (Obviously^^)
   2. What is your general skillset (languages, frameworks)
-  3. If you already found, [where you want to help](#Where-can-I-currently-help), also this.
+  3. What do you want to learn here?
+  3. If you already found, [where you want to help](#where-can-i-currently-help), also this.
  
-#### 2. Start engaging in the issues you prefer
+#### 2. Start engaging in the discussions around the issues, you want to work on.
 
 
 <br> 
@@ -37,7 +38,7 @@ Welcome to the WorldBrain project, glad that you made it here.
 
  - **Good beginner task:** [Creating docker compose file for easy installation](https://github.com/WorldBrain/infrastructure/labels/good-beginner-task)
 
-#### 2. Feature Development [(visit repo)]()
+#### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/Roadmap)
 
  - **Current most important tasks:** Feature Development has not yet started. Together with the hypothes.is team we are currently figuring out where we can contribute best to their development.
 
@@ -52,13 +53,17 @@ Welcome to the WorldBrain project, glad that you made it here.
 #### 4. Found a bug?
 
  - **[Report it here](https://github.com/hypothesis/h/issues/new)**
+ 
+#### 5. Feature Requests
+
+ - Want to see a feature, which is not available yet? [Post it here!](https://github.com/WorldBrain/Roadmap/issues/new)
 
 
 <br>
 
 ## How to set everything up
 
-Just follow the installation guidelines here: [How-to-Setup.md](https://github.com/WorldBrain/aa-START-HERE/blob/master/HOW-TO-SETUP.md)
+Just follow the installation guidelines here: [How-to-Setup.md](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md)
 
 
 <br>
