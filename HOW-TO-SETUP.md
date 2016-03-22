@@ -1,14 +1,14 @@
 ### Introduction
 
-**Current Setup time:** 1-2h
+##### Current Setup time: 
+1-2h
 
-Help us making the installation faster for everyone.
-
-**Current task:** 
+##### Most important task atm.:
 We are setting up a **docker compose file** so we can ideally **reduce this time** to a few minutes.
-Help out here: https://github.com/WorldBrain/infrastructure/issues/17
 
-**All improvement suggestions:** 
+Help us making the installation faster for everyone: https://github.com/WorldBrain/infrastructure/issues/17
+
+##### Where we collect improvement suggestions:
 https://github.com/WorldBrain/aa-START-HERE/issues
 
 ### How to install hypothes.is/WorldBrain on your local machine
