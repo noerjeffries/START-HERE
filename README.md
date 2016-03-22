@@ -32,6 +32,8 @@ For more information, [check our roadmap](www.worldbrain.io/2016/roadmap/)
 
 [Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on this project, which areas they work and want to work in and to find collaborateurs for joint development.
 
+
+<br>
 ## What is our development roadmap?
 
 [Visit our Roadmap repo](https://github.com/WorldBrain/roadmap) to find answer to questions like: 
@@ -40,16 +42,19 @@ For more information, [check our roadmap](www.worldbrain.io/2016/roadmap/)
 - Which features do we plan to develop and in which order?
 
 
+<br>
 ## How can I contribute?
 
 [Visit our CONTRIBUTING.md](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md) and explore the different areas to help out like infrastructure, feature development, testing or bug fixing.
 
 
+<br>
 ## How do I set everything up?
 
 [Visit our HOW-TO-SETUP.md](https://github.com/WorldBrain/aa-START-HERE/blob/master/HOW-TO-SETUP.md) to get a short guide on how to set everything up on your local machine.
 
 
+<br>
 ## License
 
 Hypothes.is as well as WorldBrain's Webmarks are released under the [BSD 2-Clause license](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE).
