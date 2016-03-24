@@ -1,5 +1,11 @@
-This Repo is all about onboarding and coordination of people, who want to contribute to the WorldBrain project.
 
+![](http://www.worldbrain.io/2016/wp-content/uploads/2016/03/Logo_Background_small.png)
+
+Welcome to the WorldBrain project. 
+
+This Repo is all about making it as easy and straightforward for people to contribute to the WorldBrain project.
+
+In case there are open questions left, open up an issue [here in this repo](https://github.com/WorldBrain/START-HERE/issues).
 
 ## Table of content:
 
@@ -16,6 +22,8 @@ This Repo is all about onboarding and coordination of people, who want to contri
 
 As the WorldBrain team, our grand goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
+
+For more information on how we want to accomplish this, visit our website at [www.worldbrain.io](www.worldbrain.io).
 
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
 Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
