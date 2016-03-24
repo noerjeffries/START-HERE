@@ -64,7 +64,8 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 - [What are the next features?](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#upcoming-features)
 - [What is your long term roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#long-term-roadmap)
 
-
+**If you want to stay updated** about the development progress, [subscribe](www.worldbrain.io/2016/blog/) to our 2 minutes video, which is published every 2nd wednesday [on our blog](www.worldbrain.io/2016/blog/).
+There we talk about what happened in the last 2-weeks sprint and what will happen in the next.
 
 <br>
 ## How can I contribute?
