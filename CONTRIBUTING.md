@@ -1,5 +1,5 @@
 ## Table of content
- 1. [What are we developing here?]()
+ 1. [What are we developing here?](#what-are-we-developing-here)
  2. [My first time here](#my-first-time-here)
  2. [Where can I currently help best?](#where-can-i-currently-help-best)
   - [Infrastructure](#1-infrastructure-visit-repo)
@@ -21,14 +21,13 @@ Namely, these are skeptics, science writer, scientists and [STEM students](https
 
 The provided service is an advanced, but simple to use bookmarking tool.
 
-The main features are:
-- Save bookmarks with annotations directly in the website.
+**The main features are:**
+- Save bookmarks with annotations that are visible directly in the website and add comments, images and meta data.
 - Share and discuss them with other people. Publicly or privately.
-- Save contextual various information to bookmarks, like individual comments and images. 
 - Find those bookmarks fastly and and transfer their content everywhere with just 2 clicks.
 
 We see this service in [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web.
-Hypothes.is' software is an enabling platform for WorldBrain and many other projects in the future, that will contribute to a better information quality of humanities greatest device, the internet. 
+Hypothes.is' software is an enabling platform for WorldBrain and many other projects in the future, that will contribute to a better information quality of humanity's greatest device, the internet. 
 
 But there is still work to do, in order to make Hypothes.is the platform it needs to be.
 
