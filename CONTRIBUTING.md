@@ -1,7 +1,7 @@
 ## Table of content
  1. [What are we developing here?]()
  2. [My first time here](#my-first-time-here)
- 2. [Where can I currently help?](#where-can-i-currently-help)
+ 2. [Where can I currently help best?](#where-can-i-currently-help-best)
   - [Infrastructure](#1-infrastructure-visit-repo)
   - [Feature Development](#2-feature-development-visit-repo)
   - [Bug Fixing](#3-bug-fixing)
@@ -13,26 +13,29 @@
 
 <br>
 ## What are we developing here?
-As the WorldBrain team, our goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts.
+As the WorldBrain team, our goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
+Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
-Namely they are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
+Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
 
-The service we see as necessary is an advanced, but simple to use bookmarking tool.
-It lets people save bookmarks with annotations directly in the website, which are sharable and discussable with other people. Publicly or privately.
+The provided service is an advanced, but simple to use bookmarking tool.
 
-It is also possible to save contextual information to them, like individual comments and images. 
-Similarly important: It lets users find those bookmarks and quotes again in a fast way.
+The main features are:
+- Save bookmarks with annotations directly in the website.
+- Share and discuss them with other people. Publicly or privately.
+- Save contextual various information to bookmarks, like individual comments and images. 
+- Find those bookmarks fastly and and transfer their content everywhere with just 2 clicks.
 
-We see this software in [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web.
-
-Hypothes.is is an enabling software for WorldBrain and many other projects in the future, that will contribute to a better information quality of humanities greatest device, the internet. 
+We see this service in [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web.
+Hypothes.is' software is an enabling platform for WorldBrain and many other projects in the future, that will contribute to a better information quality of humanities greatest device, the internet. 
 
 But there is still work to do, in order to make Hypothes.is the platform it needs to be.
-That is why as the WorldBrain team we focus on contributing to Hypothes.is' development and help making this software as sustainable and useful to the world as possible.
 
-WorldBrains goal is still researching and developing ways for gathering the necessary data to make scalable and convenient fact-checking of web content a reality.
-Now, we are looking forward to make Hypothes.is some wickedly nice piece of software and form a lively community around our common goal: 
+That is why as the WorldBrain team, we focus on contributing to Hypothes.is' development and help making this software as sustainable and useful to the world as possible.
+
+WorldBrains goal is still researching and developing ways for gathering the necessary data to make scalable and trustworthy fact-checking of web content a reality.
+But now, we are looking forward to make Hypothes.is some wickedly nice piece of software and form a lively community around our common goal: 
 
 **Increased (scientific) literacy in our global society through a better information quality on the internet.**
 
@@ -50,13 +53,13 @@ So you want to contribute? How do we go from here?
   1. Who are you? (Obviously^^)
   2. What is your general skillset (languages, frameworks)
   3. What do you want to learn here?
-  3. If you already found, [where you want to help](#where-can-i-currently-help), also this.
+  3. If you already found, [where you want to help](#where-can-i-currently-help-best), also mention those tasks.
  
-#### 2. Start engaging in the discussions around the issues, you want to work on.
+#### 2. Start engaging in the discussions [around the issues, you want to work on](#where-can-I-currently-help-best).
 
 
 <br> 
-## Where can I currently help
+## Where can I currently help best?
 
 #### 1. Infrastructure [(visit repo)](https://github.com/WorldBrain/infrastructure)
 
@@ -66,9 +69,9 @@ So you want to contribute? How do we go from here?
 
 #### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/Roadmap)
 
- - **Current most important tasks:** Feature Development has not yet started. Together with the hypothes.is team we are currently figuring out where we can contribute best to their development.
+ - **Current most important tasks:** At the moment, together with the hypothes.is team, we are figuring out where we can contribute best to their development. 
+Join in on the discussion about how to develop the features we see as necessary to a working MVP (Minimum Viable Product) in our [Features-List](https://github.com/WorldBrain/Roadmap/Issues).
 
- - **Good beginner task:** Same again
 
 #### 3. Bug Fixing
 
@@ -96,7 +99,7 @@ Just follow the installation guidelines here: [How-to-Setup.md](https://github.c
 ## My first pull request
 
 Please follow this checklist:
- 1. Make pull request 
- 2. [Complete 3 min Survey](Survey
+ 1. Make pull request to github.com/WorldBrain/h
+ 2. [Complete 3 min Survey](Survey)
  3. Sign and upload CLA (Contributors's license agreement)
  4. [Add yourself with a team profile](https://github.com/WorldBrain/TEAM/issues/new)
