@@ -1,6 +1,6 @@
 ## Purpose of this repository
 
-To coordinate the differnt possible types of contributions to the WorldBrain/Hypothes.is projects
+To coordinate the different possible types of contributions to the WorldBrain/Hypothes.is projects.
 
 **If you want to stay updated** about the development progress, [subscribe](www.worldbrain.io/2016/blog/) to our 2 minutes video, which is published every 2nd wednesday [on our blog](www.worldbrain.io/2016/blog/).
 There we talk about what happened in the last 2-weeks sprint and what will happen in the next.
