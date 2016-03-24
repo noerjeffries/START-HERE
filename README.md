@@ -77,6 +77,14 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 
 
 <br>
+
+## Technology Stack
+
+The Hypothes.is software is built in **Python** and **Javascript**.
+
+
 ## License
 
 Hypothes.is as well as WorldBrain's Webmarks are released under the [BSD 2-Clause license](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE).
+
+
