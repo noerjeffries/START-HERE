@@ -14,6 +14,7 @@ In case there are open questions left, open up an issue [here in this repo](http
  5. [What is your development roadmap?](#what-is-our-development-roadmap)
  3. [How can I contribute?](#how-can-i-contribute)
  4. [How do I set everything up?](#how-do-i-set-everything-up)
+ 5. [Technology Stack](#technology-stack)
  5. [License](#license)
 
 
@@ -77,12 +78,11 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 
 
 <br>
-
 ## Technology Stack
 
 The Hypothes.is software is built in **Python** and **Javascript**.
 
-
+<br>
 ## License
 
 Hypothes.is as well as WorldBrain's Webmarks are released under the [BSD 2-Clause license](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE).
