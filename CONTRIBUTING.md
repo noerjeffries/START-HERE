@@ -59,7 +59,7 @@ So you want to contribute? How do we go from here?
 #### 2. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
 
  
-#### 3. [Look for something you want to work on](#where-can-i-currently-help-best) and start engaging in the discussions around them.
+#### 3. [Look for something you want to work on](#where-can-i-currently-help-best) and start engaging in the discussions.
 
 
 <br> 
