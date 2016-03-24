@@ -3,7 +3,9 @@
 
 Welcome to the WorldBrain project and great that you are also interested in improving the quality of humanity's greatest invention, the internet.
 
-This Repo is all about making it as easy and straightforward for people to contribute to the WorldBrain project.
+## Purpose of this repository
+
+This Repo is all about making it as easy and straightforward for people to inform themselves and contribute to the WorldBrain project.
 
 In case there are open questions left, open up an issue [here in this repo](https://github.com/WorldBrain/START-HERE/issues).
 
