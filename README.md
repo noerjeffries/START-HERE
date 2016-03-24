@@ -83,6 +83,11 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 
 The Hypothes.is software is built in **Python** and **Javascript**.
 
+else:
+- Docker 
+- Ansible
+- Elasticsearch
+
 <br>
 ## License
 
