@@ -55,7 +55,7 @@ So you want to contribute? How do we go from here?
   3. What do you want to learn here?
   3. If you already found, [where you want to help](#where-can-i-currently-help-best), also mention those tasks.
  
-#### 2. Start engaging in the discussions [around the issues, you want to work on](#where-can-I-currently-help-best).
+#### 2. [Look for something you want to work on]((#where-can-i-currently-help-best) and start engaging in the discussions around them.
 
 
 <br> 
