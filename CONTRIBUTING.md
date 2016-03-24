@@ -16,6 +16,8 @@
 As the WorldBrain team, our goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
+For more on how we think we can reach this goal, visit: www.worldbrain.io 
+
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
 Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
 
@@ -98,7 +100,8 @@ Just follow the installation guidelines here: [How-to-Setup.md](https://github.c
 ## My first pull request
 
 Please follow this checklist:
- 1. Make pull request to github.com/WorldBrain/h
- 2. [Complete 3 min Survey](Survey)
- 3. Sign and upload CLA (Contributors's license agreement)
+ 1. Read the ["How to make a pull request" guide](https://h.readthedocs.org/en/latest/hacking/submitting-a-pr.html)
+ 1. Make the pull request to github.com/WorldBrain/h
+ 2. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
+ 3. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
  4. [Add yourself with a team profile](https://github.com/WorldBrain/TEAM/issues/new)
