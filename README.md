@@ -59,7 +59,7 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 <br>
 ## What is our development roadmap?
 
-[Visit our Roadmap repo](https://github.com/WorldBrain/roadmap) to find answer to questions like: 
+[Visit our Roadmap repo](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES) to find answer to questions like: 
 - How do we plan to make the fact-checking plugin a reality?
 - What are the **next steps** in reaching this goal? 
 - Which features do we plan to develop and in which order?
