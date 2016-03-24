@@ -24,7 +24,7 @@ In case there are open questions left, open up an issue [here in this repo](http
 As the WorldBrain team, our grand goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
-For more information on how we want to accomplish this, visit our website at [www.worldbrain.io](www.worldbrain.io).
+For more more detailed information on how we want to accomplish this, [check out our roadmap](). 
 
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
 Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
@@ -60,9 +60,10 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 ## What is our development roadmap?
 
 [Visit our Roadmap repo](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES) to find answer to questions like: 
-- How do we plan to make the fact-checking plugin a reality?
-- What are the **next steps** in reaching this goal? 
-- Which features do we plan to develop and in which order?
+- [What is the current milestone?](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#current-milestones)
+- [What are the next features?](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#upcoming-features)
+- [What is your long term roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#long-term-roadmap)
+
 
 
 <br>
