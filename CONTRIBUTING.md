@@ -1,3 +1,11 @@
+## Purpose of this repository
+
+To coordinate the differnt possible types of contributions to the WorldBrain/Hypothes.is projects
+
+**If you want to stay updated** about the development progress, [subscribe](www.worldbrain.io/2016/blog/) to our 2 minutes video, which is published every 2nd wednesday [on our blog](www.worldbrain.io/2016/blog/).
+There we talk about what happened in the last 2-weeks sprint and what will happen in the next.
+
+<br><br>
 ## Table of content
  1. [What are we developing here?](#what-are-we-developing-here)
  2. [My first time here](#my-first-time-here)
@@ -11,7 +19,7 @@
  4. [My first pull request](#my-first-pull-request)
 
 
-<br>
+<br><br>
 ## What are we developing here?
 As the WorldBrain team, our goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
