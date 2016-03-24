@@ -86,14 +86,22 @@ There we talk about what happened in the last 2-weeks sprint and what will happe
 
 The Hypothes.is software is built in **Python** and **Javascript**.
 
-else:
+other:
 - Docker 
 - Ansible
 - Elasticsearch
 
+Performance:
+[![Build Status](https://travis-ci.org/hypothesis/h.svg?branch=master)](https://travis-ci.org/hypothesis/h)
+[![Code Coverage](https://codecov.io/github/hypothesis/h/coverage.svg?branch=master)](https://codecov.io/github/hypothesis/h?branch=master)
+[![Code Health](https://landscape.io/github/hypothesis/h/master/landscape.svg?style=flat)](https://travis-ci.org/hypothesis/h)
+[![Python version badge](https://img.shields.io/badge/python-2.7-blue.svg)](https://travis-ci.org/hypothesis/h)
+
+
 <br>
 ## License
 
+[![License badge](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/hypothesis/h/blob/master/LICENSE)
 Hypothes.is as well as WorldBrain's Webmarks are released under the [BSD 2-Clause license](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE).
 
 
