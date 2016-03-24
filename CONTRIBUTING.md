@@ -114,7 +114,7 @@ Just follow the installation guidelines here: [How-to-Setup.md](https://github.c
 
 Please follow this checklist:
  1. Read the ["How to make a pull request" guide](https://h.readthedocs.org/en/latest/hacking/submitting-a-pr.html)
- 1. Make the pull request to github.com/WorldBrain/h
+ 1. Make the pull request to github.com/WorldBrain/Webmarks
  2. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
  3. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
  4. [Add yourself with a team profile](https://github.com/WorldBrain/TEAM/issues/new)
