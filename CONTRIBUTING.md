@@ -54,7 +54,7 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 Welcome to the WorldBrain project, glad that you made it here. 
 So you want to contribute? How do we go from here?
 
-#### 1. Please introduce yourself in our gitter chat: 
+#### 1. Please introduce yourself in our Gitter chat: 
 
 [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
