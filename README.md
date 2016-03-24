@@ -1,7 +1,7 @@
 
 ![](http://www.worldbrain.io/2016/wp-content/uploads/2016/03/Logo_Background_small.png)
 
-Welcome to the WorldBrain project. 
+Welcome to the WorldBrain project and great that you are also interested in improving the quality of humanity's greatest invention, the internet.
 
 This Repo is all about making it as easy and straightforward for people to contribute to the WorldBrain project.
 
