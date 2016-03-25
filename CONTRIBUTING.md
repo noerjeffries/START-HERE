@@ -77,9 +77,10 @@ Familiarise yourself with the WorldBrain project. More information you can find 
 
 #### 1. Infrastructure [(visit repo)](https://github.com/WorldBrain/infrastructure)
 
- - **Current most important task:** [Creating docker compose file for easy installation](https://github.com/WorldBrain/infrastructure/labels/most-important)
+ - **Current most important tasks:** 
+  - [Creating docker compose file for easy installation](https://github.com/WorldBrain/infrastructure/labels/most-important)
+  - [Setting up Etherpad to document our team meetings](https://github.com/WorldBrain/MGMT/issues/2)
 
- - **Good beginner task:** [Creating docker compose file for easy installation](https://github.com/WorldBrain/infrastructure/labels/good-beginner-task)
 
 #### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/Roadmap)
 
