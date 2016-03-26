@@ -13,6 +13,7 @@ In case there are open questions left, open up an issue [here in this repo](http
 
  1. [What is this project about?](#what-is-this-project-about)
  2. [Who is working on it?](#who-is-working-on-it)
+ 3. [How to contact us](#how-to-contact-us)
  5. [What is your development roadmap?](#what-is-our-development-roadmap)
  3. [How can I contribute?](#how-can-i-contribute)
  4. [How do I set everything up?](#how-do-i-set-everything-up)
@@ -56,6 +57,14 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 ## Who is working on it?
 
 [Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on this project, which areas they work and want to work in and to find collaborateurs for joint development.
+
+## How to contact us
+
+**Gitter chat:** [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+**Email:** info@worldbrain.io
+
+**Hypothes.is mailing list:** Subscribe with any message to: [dev+subscribe@list.hypothes.is](mailto:dev+subscribe@list.hypothes.is)
 
 
 <br>
