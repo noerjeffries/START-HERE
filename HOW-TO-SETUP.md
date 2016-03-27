@@ -15,7 +15,7 @@ Help us making the installation faster for everyone: https://github.com/WorldBra
 
  1. Go to the [Hypothes.is documentation](https://h.readthedocs.org/en/latest/hacking/install.html) and follow the installation instructions.
  2. Add any open questions or improvement suggestions of the installation process to [the bug tracker in this repo](https://github.com/WorldBrain/START-HERE/issues).
-
+ 3. Let's hack! :)
 
 
 
