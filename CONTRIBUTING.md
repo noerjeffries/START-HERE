@@ -16,7 +16,7 @@ There we talk about what happened in the last 2-weeks sprint and what will happe
   - [Found a Bug?](#4-found-a-bug)  
   - [Feature Requests](#5-feature-requests)
  3. [How to set everything up](https://github.com/WorldBrain/aa-START-HERE/blob/master/HOW-TO-SETUP.md)
- 4. [My first pull request](#my-first-pull-request)
+ 4. [(My first) pull request](#my-first-pull-request)
 
 
 <br><br>
@@ -61,14 +61,14 @@ So how do we go from here?
 
 [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short team member profile with 4 questions: [(WHY?)](https://github.com/WorldBrain/TEAM)
+#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short contributor profile with 4 questions: [(WHY?)](https://github.com/WorldBrain/TEAM)
 
-#### 2. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
+#### 3. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
 
 Familiarise yourself with the Hypothes.is software. More information you can find in [Hypothes.is' documentation](http://h.readthedocs.org) or you can ask them in [their IRC chat](https://www.irccloud.com/#!/ircs://chat.freenode.net:6697/%23hypothes.is).
 
  
-#### 3. [Look for something you want to work on](#where-can-i-currently-help-best) and start engaging in the discussions.
+#### 4. [Look for something you want to work on](#where-can-i-currently-help-best) and start engaging in the discussions.
 
 
 <br> 
@@ -110,11 +110,17 @@ Just follow the installation guidelines here: [How-to-Setup.md](https://github.c
 
 
 <br>
-## My first pull request
+## (My first) pull request
 
-Please follow this checklist:
+So you have (your first) code you want to ship? 
+
+![](https://media.giphy.com/media/pCO5tKdP22RC8/giphy.gif)
+
+To avoid complications and double work, please follow the points below
  1. Read the ["How to make a pull request" guide](https://h.readthedocs.org/en/latest/hacking/submitting-a-pr.html)
- 1. Make the pull request to github.com/WorldBrain/Webmarks
- 2. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
- 3. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
- 4. [Add yourself with a team profile](https://github.com/WorldBrain/TEAM/issues/new)
+ 2. Make the pull request to github.com/WorldBrain/Webmarks, so we can go through the QA without interupting Hypothes.is processes.
+<br>
+If it is your first pull request, complete the steps below as well.
+ 3. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
+ 4. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
+ 5. If not happened, [please add yourself with a contributor profile](https://github.com/WorldBrain/TEAM/issues/new)
