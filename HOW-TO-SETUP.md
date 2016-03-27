@@ -4,9 +4,9 @@
 1-2h
 
 ### We need help here:
-The current time to set up hypothes.is doesn't allow scaling of contributions to our projects.
+The current time to set up hypothes.is is tremendously improvable.
 
-To improve that, we are setting up a **docker compose file** so we can ideally reduce the installation time **to a few minutes**.
+To do so, we are setting up a **docker compose file** so we can ideally reduce the installation time **to a few minutes**.
 
 Help us making the installation faster for everyone: https://github.com/WorldBrain/infrastructure/issues/17
 
