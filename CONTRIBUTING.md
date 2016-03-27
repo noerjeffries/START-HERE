@@ -61,15 +61,11 @@ So how do we go from here?
 
 [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-**...and add the following info:** 
-  1. Who are you? (Obviously^^)
-  2. What is your general skillset (languages, frameworks)
-  3. What do you want to learn here?
-  3. In case you already know [where you want to contribute](#where-can-i-currently-help-best), what would you like to do?
+#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short team member profile with 4 questions: [(WHY?)](https://github.com/WorldBrain/TEAM)
 
 #### 2. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
 
-Familiarise yourself with the WorldBrain project. More information you can find in [Hypothes.is' documentation](http://h.readthedocs.org) or if you write them in [their IRC chat](https://www.irccloud.com/#!/ircs://chat.freenode.net:6697/%23hypothes.is).
+Familiarise yourself with the Hypothes.is software. More information you can find in [Hypothes.is' documentation](http://h.readthedocs.org) or you can ask them in [their IRC chat](https://www.irccloud.com/#!/ircs://chat.freenode.net:6697/%23hypothes.is).
 
  
 #### 3. [Look for something you want to work on](#where-can-i-currently-help-best) and start engaging in the discussions.
