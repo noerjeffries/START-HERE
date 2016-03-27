@@ -82,7 +82,7 @@ Familiarise yourself with the WorldBrain project. More information you can find 
   - [Setting up Etherpad to document our team meetings](https://github.com/WorldBrain/MGMT/issues/2)
 
 
-#### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/Roadmap)
+#### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES)
 
  - **Current most important tasks:** At the moment, together with the hypothes.is team, we are figuring out where we can contribute best to their development. 
 Join in on the discussion about how to develop the features we see as necessary to a working MVP (Minimum Viable Product) in our [Features-List](https://github.com/WorldBrain/Roadmap/Issues).
