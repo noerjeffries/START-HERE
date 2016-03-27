@@ -73,6 +73,8 @@ In the future we will be working together closely on our common goal of a better
 
 **Hypothes.is mailing list:** Subscribe with any message to: [dev+subscribe@list.hypothes.is](mailto:dev+subscribe@list.hypothes.is)
 
+**Hypothes.is IRC-chat** [https://www.irccloud.com/#!/ircs://chat.freenode.net:6697/%23hypothes.is](https://www.irccloud.com/#!/ircs://chat.freenode.net:6697/%23hypothes.is)
+
 
 <br>
 ## What is our development roadmap?
