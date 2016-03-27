@@ -120,6 +120,7 @@ To avoid complications and double work, please follow the points below
  1. Read the ["How to make a pull request" guide](https://h.readthedocs.org/en/latest/hacking/submitting-a-pr.html)
  2. Make the pull request to github.com/WorldBrain/Webmarks, so we can go through the QA without interupting Hypothes.is processes.
 <br>
+
 If it is your first pull request, complete the steps below as well.
  3. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
  4. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
