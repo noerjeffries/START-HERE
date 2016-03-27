@@ -124,4 +124,4 @@ To avoid complications and double work, please follow the points below
 If it is your first pull request, complete the steps below as well.
  3. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
  4. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
- 5. If not happened, [please add yourself with a contributor profile](https://github.com/WorldBrain/TEAM/issues/new)
+ 5. If not happened yet, [please add yourself with a contributor profile](https://github.com/WorldBrain/TEAM/issues/new)
