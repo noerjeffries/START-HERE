@@ -58,6 +58,8 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 
 [Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on this project, which areas they work and want to work in and to find collaborateurs for joint development.
 
+
+<br>
 ## How to contact us
 
 **Gitter chat:** [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
