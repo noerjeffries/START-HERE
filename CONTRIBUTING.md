@@ -116,7 +116,17 @@ So you have (your first) code you want to ship?
 
 ![](https://media.giphy.com/media/pCO5tKdP22RC8/giphy.gif)
 
-Great, thanks so much. We're just a few steps away from making your code a part of the WorldBrain/Hypothesis project. 
+Great, thanks so much. 
+
+We're just a few steps away from making your code a part of the WorldBrain/Hypothesis project. 
+
+**Your first pull request?**
+ 1. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
+ 2. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
+ 3. If not happened yet, [please add yourself with a contributor profile](https://github.com/WorldBrain/TEAM/issues/new)
+ 4. Follow the next steps
+
+**Just need a refresher?**
 
 To avoid complications and double work, please follow the points below
  1. Read the ["How to make a pull request" guide](https://h.readthedocs.org/en/latest/hacking/submitting-a-pr.html)
@@ -124,7 +134,4 @@ To avoid complications and double work, please follow the points below
  3. If everything works, we manage the integration of your code from our fork into the Hypothes.is core software.
 <br>
 
-**If it is your first pull request, please go  the steps below as well.**
- 4. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
- 3. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
- 5. If not happened yet, [please add yourself with a contributor profile](https://github.com/WorldBrain/TEAM/issues/new)
+
