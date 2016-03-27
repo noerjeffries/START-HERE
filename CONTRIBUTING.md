@@ -51,8 +51,11 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 <br>
 ## My first time here:
 
-Welcome to the WorldBrain project, glad that you made it here. 
-So you want to contribute? How do we go from here?
+Welcome to the WorldBrain project, glad that you made it here. :tada: :smile:
+
+And you even want to contribute? Awesome!
+
+So how do we go from here?
 
 #### 1. Please introduce yourself in our Gitter chat: 
 
