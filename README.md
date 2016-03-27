@@ -56,7 +56,10 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 <br>
 ## Who is working on it?
 
-[Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on this project, which areas they work and want to work in and to find collaborateurs for joint development.
+With the WorldBrain Team, we are contributing to the great work of the [Hypothes.is project and its team](https://hypothes.is/team/). 
+In the future we will be working together closely on our common goal of a better internet.
+
+[Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on WorldBrain project, which areas they work and want to work in and to find collaborateurs for joint development.
 
 
 <br>
