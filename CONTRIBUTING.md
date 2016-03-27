@@ -65,7 +65,7 @@ So how do we go from here?
   1. Who are you? (Obviously^^)
   2. What is your general skillset (languages, frameworks)
   3. What do you want to learn here?
-  3. If you already found, [where you want to help](#where-can-i-currently-help-best), also mention those tasks.
+  3. In case you already know [where you want to contribute](#where-can-i-currently-help-best), what would you like to do?
 
 #### 2. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
 
