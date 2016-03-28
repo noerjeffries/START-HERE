@@ -29,7 +29,7 @@ In case there are open questions left, open up an issue [here in this repo](http
 As the WorldBrain team, our grand goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
-For more more detailed information on how we want to accomplish this, [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md). 
+For more detailed information on how we want to accomplish this, [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md). 
 
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
 Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
@@ -39,7 +39,7 @@ The provided service is an advanced, but simple to use bookmarking tool.
 **The main features are:**
 - Save bookmarks with annotations that are visible directly in the website and add comments, images and meta data.
 - Share and discuss them with other people. Publicly or privately.
-- Find those bookmarks fastly and and transfer their content everywhere with just 2 clicks.
+- Find those bookmarks fastly and transfer their content everywhere with just 2 clicks.
 
 We see this service in [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web.
 Hypothes.is' software is an enabling platform for WorldBrain and many other projects in the future, that will contribute to a better information quality of humanity's greatest device, the internet. 
