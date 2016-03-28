@@ -57,11 +57,11 @@ And you even want to contribute? Awesome!
 
 So how do we go from here?
 
-#### 1. Please introduce yourself in our Gitter chat: 
+#### 1. Please introduce yourself to the gang in our Gitter chat: 
 
 [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short contributor profile with 4 questions: [(WHY?)](https://github.com/WorldBrain/TEAM)
+#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short contributor profile: [(WHY?)](https://github.com/WorldBrain/TEAM)
 
 #### 3. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
 
