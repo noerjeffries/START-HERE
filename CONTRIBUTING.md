@@ -83,8 +83,10 @@ Familiarise yourself with the Hypothes.is software. More information you can fin
 
 #### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES)
 
- - **Current most important tasks:** At the moment, together with the hypothes.is team, we are figuring out where we can contribute best to their development. 
-Join in on the discussion about how to develop the features we see as necessary to a working MVP (Minimum Viable Product) in our [Features-List](https://github.com/WorldBrain/Roadmap/Issues).
+Together with the hypothes.is team, we are currently figuring out where we can contribute best to their development. We soon will have decided on a first "pilot-task" for our collaboration.
+
+ - **Current most important tasks:** 
+  - Onboarding and Installation of Hypothes.is on your local machine, as described in the section ["My first time here"](#my-first-time-here)
 
 
 #### 3. Bug Fixing
