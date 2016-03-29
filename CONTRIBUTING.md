@@ -61,7 +61,11 @@ So how do we go from here?
 
 [![Gitter](https://badges.gitter.im/WorldBrain/Webmarks.svg)](https://gitter.im/WorldBrain/Webmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short contributor profile: [(WHY?)](https://github.com/WorldBrain/TEAM)
+#### 2. [Take 3 minutes](https://github.com/WorldBrain/TEAM/) to fill out a short contributor profile: 
+[Why?](https://github.com/WorldBrain/TEAM)
+ - Get notified when tasks are available fitting your skill set or what you want to learn.
+ - Find collaborateurs on projects and tasks
+ - Get to know the people working on the WorldBrain project.
 
 #### 3. Set up hypothes.is on your local machine by following [the installation guide](https://github.com/WorldBrain/START-HERE/blob/master/HOW-TO-SETUP.md).
 
