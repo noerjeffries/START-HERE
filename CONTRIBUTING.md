@@ -157,4 +157,4 @@ To avoid complications and double work, please follow the points below
  3. If everything works, we manage the integration of your code from our fork into the Hypothes.is core software.
 <br>
 
-
+Thank you! The WorldBrain crew wishes you a safe flight :)
