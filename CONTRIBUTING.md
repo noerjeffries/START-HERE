@@ -5,6 +5,23 @@ To coordinate the different possible types of contributions to the WorldBrain/Hy
 **If you want to stay updated** about the development progress, [subscribe](www.worldbrain.io/2016/blog/) to our 2 minutes video, which is published every 2nd wednesday [on our blog](www.worldbrain.io/2016/blog/).
 There we talk about what happened in the last 2-weeks sprint and what will happen in the next.
 
+### Current Status of Development
+
+##### [Feature Development](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/issues?q=is%3Aissue+is%3Aopen+label%3A%22prio+1%22)
+Together with Hypothe.is, we are currently elaborating which feature might be the best to develop as a pilot project. 
+With that we test the workflows for the future tasks to come. The list of features, that are in the discussion so far are [here](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/issues?q=is%3Aissue+is%3Aopen+label%3A%22prio+1%22).
+
+##### Infrastructure
+
+We are working on an improvement of the current installation process of hypothesis/h that will bring the installation time from 1-2h to a few minutes.
+For that we are setting up a Docker-compose.yml.
+
+If you want to help on that, then a good place to jump in is [here](https://github.com/WorldBrain/infrastructure/issues/17).
+
+
+
+
+
 <br><br>
 ## Table of content
  1. [What are we developing here?](#what-are-we-developing-here)
