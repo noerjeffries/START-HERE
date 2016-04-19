@@ -98,16 +98,15 @@ Familiarise yourself with the Hypothes.is software. More information you can fin
 #### 1. Infrastructure [(visit repo)](https://github.com/WorldBrain/infrastructure)
 
  - **Current most important tasks:** 
-  - [Creating docker compose file for easy installation](https://github.com/WorldBrain/infrastructure/labels/most-important)
-  - [Setting up Etherpad to document our team meetings](https://github.com/WorldBrain/MGMT/issues/2)
+  - [Creating docker-compose.yml file for easy installation to local developer environment](https://github.com/WorldBrain/infrastructure/labels/most-important)
+
 
 
 #### 2. Feature Development [(visit repo)](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES)
 
 Together with the hypothes.is team, we are currently figuring out where we can contribute best to their development. We soon will have decided on a first "pilot-task" for our collaboration.
 
- - **Current most important tasks:** 
-  - Onboarding and Installation of Hypothes.is on your local machine, as described in the section ["My first time here"](#my-first-time-here)
+ - **[See the list of good beginner features](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+beginner+task%22)**
 
 
 #### 3. Bug Fixing
