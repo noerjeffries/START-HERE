@@ -29,7 +29,7 @@ In case there are open questions left, open up an issue [here in this repo](http
 As the WorldBrain team, our grand mission is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
-For more detailed information on how we want to accomplish this, [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md). 
+**For more detailed information on how we want to accomplish this,** [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md).
 
 
 ### Our first project: *WorldBrain's Webmarks*
