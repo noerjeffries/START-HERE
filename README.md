@@ -76,10 +76,10 @@ In the future we will be working together closely on our common goal of a better
 <br>
 ## What is our development roadmap?
 
-[Visit our Roadmap repo](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES) to find answer to questions like: 
-- [What is the current milestone?](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#current-milestones)
-- [What are the next features?](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#upcoming-features)
-- [What is your long term roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#long-term-roadmap)
+[Visit our Roadmap repo](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES) to find more about: 
+- [Current milestone](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#current-milestones)
+- [Next features](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#upcoming-features)
+- [Long term roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md#long-term-roadmap)
 
 **If you want to stay updated** about the development progress, [subscribe](www.worldbrain.io/2016/blog/) to our 2 minutes video, which is published every 2nd wednesday [on our blog](www.worldbrain.io/2016/blog/).
 There we talk about what happened in the last 2-weeks sprint and what will happen in the next.
@@ -87,7 +87,7 @@ There we talk about what happened in the last 2-weeks sprint and what will happe
 <br>
 ## How can I contribute?
 
-[Visit our CONTRIBUTING.md](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md) and explore the different areas to help out like [infrastructure](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md#1-infrastructure-visit-repo), [feature development](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md#2-feature-development-visit-repo), [documentation](), testing or bug fixing.
+[Visit our CONTRIBUTING.md](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md) and explore the different areas to help out like [infrastructure](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md#1-infrastructure-visit-repo), [feature development](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md#2-feature-development-visit-repo), documentation, testing or bug fixing.
 
 
 <br>
