@@ -145,7 +145,7 @@ We're just a few steps away from making your code a part of the WorldBrain/Hypot
 
 #### Your first pull request?
  1. [Sign the CLA (Contributors's license agreement)](https://www.clahub.com/agreements/WorldBrain/Webmarks)
- 2. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM)
+ 2. [Complete 3 min Survey](http://goo.gl/forms/QJ5Apz8orM) that helps us improving the on-boarding process.
  3. [Add yourself with a contributor profile](https://github.com/WorldBrain/TEAM/issues/new)
  4. Follow the next steps
 
