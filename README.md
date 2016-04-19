@@ -24,32 +24,29 @@ In case there are open questions left, open up an issue [here in this repo](http
 
 
 <br>
-## What is this project about?
+## What is WorldBrain about?
 
-As the WorldBrain team, our grand goal is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
+As the WorldBrain team, our grand mission is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
 For more detailed information on how we want to accomplish this, [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md). 
 
+
+### Our first project: *WorldBrain's Webmarks*
+
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
 Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
 
-The provided service is an advanced, but simple to use bookmarking tool.
+The provided service is an advanced, but simple to use bookmarking tool, that lets people annotate websites with commentary and share those annoations publicly or privately.
 
-**The main features are:**
-- Save bookmarks with annotations that are visible directly in the website and add comments, images and meta data.
-- Share and discuss them with other people. Publicly or privately.
-- Find those bookmarks fastly and transfer their content everywhere with just 2 clicks.
+**For a list of all features, visit our website:** [www.worldbrain.io](http://www.worldbrain.io)
 
-We see this service in [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web.
-Hypothes.is' software is an enabling platform for WorldBrain and many other projects in the future, that will contribute to a better information quality of humanity's greatest device, the internet. 
+We build this service on the basis of [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web. 
 
-But there is still work to do, in order to make Hypothes.is the platform it needs to be.
+Many planned functionalities of *WorldBrain's Webmarks* overlap with Hypothes.is roadmap. 
 
-That is why as the WorldBrain team, we focus on contributing to Hypothes.is' development and help making this software as sustainable and useful to the world as possible.
-
-WorldBrains goal is still researching and developing ways for gathering the necessary data to make scalable and trustworthy fact-checking of web content a reality.
-But now, we are looking forward to make Hypothes.is some wickedly nice piece of software and form a lively community around our common goal: 
+That is why as the WorldBrain team, we try to contribute to Hypothes.is' core software wherever it is possible.
+Together with Hypothes.is we want to form a lively community around our common goal: 
 
 **Increased (scientific) literacy in our global society through a better information quality on the internet.**
 
@@ -58,7 +55,7 @@ But now, we are looking forward to make Hypothes.is some wickedly nice piece of 
 <br>
 ## Who is working on it?
 
-With the WorldBrain Team, we are contributing to the great work of the [Hypothes.is project and its team](https://hypothes.is/team/). 
+With the WorldBrain Team, we are now contributing to the work of the [Hypothes.is project and its team](https://hypothes.is/team/). 
 In the future we will be working together closely on our common goal of a better internet.
 
 [Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on WorldBrain project, which areas they work and want to work in and to find collaborateurs for joint development.
@@ -90,7 +87,7 @@ There we talk about what happened in the last 2-weeks sprint and what will happe
 <br>
 ## How can I contribute?
 
-[Visit our CONTRIBUTING.md](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md) and explore the different areas to help out like infrastructure, feature development, testing or bug fixing.
+[Visit our CONTRIBUTING.md](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md) and explore the different areas to help out like [infrastructure](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md#1-infrastructure-visit-repo), [feature development](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md#2-feature-development-visit-repo), [documentation](), testing or bug fixing.
 
 
 <br>
