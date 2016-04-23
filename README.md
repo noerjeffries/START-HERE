@@ -7,13 +7,14 @@
 Welcome to the WorldBrain project and great that you are also interested in improving the quality of humanity's greatest invention, the internet. :tada: :+1:
 
 
-This Repo is all about making it as easy and straightforward for people to inform themselves and contribute to the WorldBrain project.
-
-In case there are open questions left, open up an issue [here in this repo](https://github.com/WorldBrain/START-HERE/issues).
+This Repo is all about coordinating people to answer 3 questions:
+ 1. What is the vision and long-, medium- and short-term road map?
+ 2. Where can I contribute the best?
+ 3. Where can I send feedback to improve onboarding and documentation? [(Please add your suggestions to the issue tracker here)](https://github.com/WorldBrain/START-HERE/issues).
 
 ## Table of content:
 
- 1. [What is this project about?](#what-is-this-project-about)
+ 1. [What is WorldBrain about?](#what-is-worldbrain-about)
  2. [Who is working on it?](#who-is-working-on-it)
  3. [How to contact us](#how-to-contact-us)
  5. [What is your development roadmap?](#what-is-our-development-roadmap)
