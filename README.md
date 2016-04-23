@@ -6,11 +6,9 @@
 
 Welcome to the WorldBrain project and great that you are also interested in improving the quality of humanity's greatest invention, the internet. :tada: :+1:
 
+This Repo is all about coordinating people in their efforts to find the right ressources to inform themselves and to know where they can contribute best to the development of WorldBrain.
 
-This Repo is all about coordinating people to answer 3 questions:
- 1. What is the vision and long-, medium- and short-term road map?
- 2. Where can I contribute the best?
- 3. Where can I send feedback to improve onboarding and documentation? [(Please add your suggestions to the issue tracker here)](https://github.com/WorldBrain/START-HERE/issues).
+For any improvement suggestions for documentation and onboarding, please [(add an issue to this repo)](https://github.com/WorldBrain/START-HERE/issues).
 
 ## Table of content:
 
@@ -27,7 +25,7 @@ This Repo is all about coordinating people to answer 3 questions:
 <br>
 ## What is WorldBrain about?
 
-As the WorldBrain team, our grand mission is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
+As the WorldBrain team, our long term mission is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
 **For more detailed information on how we want to accomplish this,** [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md).
@@ -36,7 +34,7 @@ Our work will be to research and develop ways to make verfication of web content
 ### Our first project: *WorldBrain's Webmarks*
 
 As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
-Namely, these are skeptics, science writer, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
+Namely, these are science communicators like skeptics, science journalists, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
 
 The provided service is an advanced, but simple to use bookmarking tool, that lets people annotate websites with commentary and share those annoations publicly or privately.
 
