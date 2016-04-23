@@ -6,9 +6,7 @@
 ### We need help here:
 The current time to set up hypothes.is is tremendously improvable.
 
-To do so, we are setting up a **docker compose file** so we can ideally reduce the installation time **to a few minutes**.
-
-Help us making the installation faster for everyone: https://github.com/WorldBrain/infrastructure/issues/17
+To do so, we need help in [setting up a **docker compose file**](https://github.com/WorldBrain/infrastructure/issues/17) to reduce the installation time **to a few minutes**.
 
 
 ### How to install Hypothes.is/WorldBrain on your local machine:
