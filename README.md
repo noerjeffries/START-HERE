@@ -9,7 +9,7 @@ Welcome to the WorldBrain project and great that you are also interested in impr
 This Repo is all about coordinating people in their efforts to find the right ressources to inform themselves and to know where they can contribute best to the development of WorldBrain.
 
 For any improvement suggestions for documentation and onboarding, please [(add an issue to this repo)](https://github.com/WorldBrain/START-HERE/issues).
-
+ 
 ## Table of content:
 
  1. [What is WorldBrain about?](#what-is-worldbrain-about)
