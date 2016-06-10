@@ -1,5 +1,5 @@
 
-![](http://www.worldbrain.io/2016/wp-content/uploads/2016/03/Logo_Background_small.png)
+![](http://www.worldbrain.io/wp-content/uploads/2016/03/Logo_Background_small.png)
 
 
 ## Purpose of this repository
