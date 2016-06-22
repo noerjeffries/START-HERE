@@ -24,7 +24,7 @@ Our work will be the research and development ways to make verfication of web co
  - Performing individual searches through all of those sources at once, instead of searching every page manually or the whole web via google. 
  - Bookmarking, annotating, sharing and discussing web content with the community and the public. 
  
-**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/README.md)**
+**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/blob/master/README.md)**
 
 However, the goal of this tool is to build a community of scientifically literate individuals to gather important meta data about the quality of web content and (in the long term) to ultimately train algorithms to detect various arguments in web content. ([What data will we gather from users?](http://www.worldbrain.io/open_and_social/))
 
@@ -36,7 +36,12 @@ In a second stage, we then apply those algorithms on a larger amount of web cont
 
 We just published our first proof of concept with the channel "Related Content" which is powered by [Laterals News API](https://lateral.io/publishing) and is broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
 
+**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/blob/master/README.md)**
+
 Currently we are working on the feature of retrieving relevant content from a **science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
+
+**[>> Want to have a specific source indexed?](https://github.com/WorldBrain/Webmarks/blob/master/helper_processes/index_sources.md)** 
+
 
 <br>
 
