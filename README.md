@@ -20,11 +20,11 @@ Our work will be the research and development ways to make verfication of web co
 *WorldBrain Webmarks* is an open souce web research tool for science communicators like science journalists, skeptics and scientists. It aims to make the 2 main elements of online research more efficient: **Content Discovery and Knowledge Management**
 
 #### Key Features
- - Automatically retrieving related content and meta information for articles, blog posts and scientific papers from a **personal/science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
+ - Automatically retrieving related content for articles, blog posts and scientific papers from a **personal/science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
  - Performing individual searches through all of those sources at once, instead of searching every page manually or the whole web via google. 
  - Bookmarking, annotating, sharing and discussing web content with the community and the public. 
  
-**[See more details about the tool, the development roadmap and how to contribute](https://github.com/WorldBrain/Webmarks/edit/master/README.md)**
+**[For a demo of the tool and the near term development roadmap](https://github.com/WorldBrain/Webmarks/README.md)**
 
 However, the goal of this tool is to build a community of scientifically literate individuals to gather important meta data about the quality of web content and (in the long term) to ultimately train algorithms to detect various arguments in web content. ([What data will we gather from users?](http://www.worldbrain.io/open_and_social/))
 
