@@ -25,7 +25,7 @@ For any improvement suggestions for documentation and onboarding, please [(add a
 <br>
 ## What is WorldBrain about?
 
-As the WorldBrain team, our long term mission is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
+As the WorldBrain project, our long term vision is to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts. 
 Our work will be to research and develop ways to make verfication of web content scalable and trustworthy.
 
 **For more detailed information on how we want to accomplish this,** [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md).
@@ -33,29 +33,26 @@ Our work will be to research and develop ways to make verfication of web content
 
 ### Our first project: *WorldBrain's Webmarks*
 
-As a first step we see it as necessary to provide a service to the groups of people needed to make these verifications trustworthy, efficient and lasting.
-Namely, these are science communicators like skeptics, science journalists, scientists and [STEM students](https://www.wikiwand.com/en/Science,_Technology,_Engineering,_and_Mathematics).
+WorldBrain Webmarks is an open souce web research tool for science communicators like science journalists, skeptics and scientists. It aims to make the 2 main elements of online research more efficient: **Content Discovery and Knowledge Management**
 
-The provided service is an advanced, but simple to use bookmarking tool, that lets people annotate websites with commentary and share those annoations publicly or privately.
+#### Key Features
+ - Automatically retrieving related content and meta information for articles, blog posts and scientific papers from a **personal/science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
+ - Performing individual searches through all of those sources at once, instead of searching every page manually or the whole web via google. 
+ - Bookmarking, annotating, sharing and discussing web content with the community and the public. 
+ 
+**[See more details about the tool, the development roadmap and how to contribute](https://github.com/WorldBrain/Webmarks/edit/master/README.md)**
 
-**For a list of all features, visit our website:** [www.worldbrain.io](http://www.worldbrain.io)
 
-We build this service on the basis of [Hypothes.is](http://www.hypothes.is), an already well developed open-source project, which aims to add a new layer of annotated commentary to the web. 
 
-Many planned functionalities of *WorldBrain's Webmarks* overlap with Hypothes.is roadmap. 
+However, the goal of this tool is to build a community of scientifically literate individuals to gather important meta data about the quality of web content and (in the long term) to ultimately train algorithms to detect various topic specific arguments on the internet.
 
-That is why as the WorldBrain team, we try to contribute to Hypothes.is' core software wherever it is possible.
-Together with Hypothes.is we want to form a lively community around our common goal: 
+In a second stage, we then apply those algorithms on a larger amount of web content allows creating a list of the most influential arguments. These can then be verified with crowdsourced templates that we can link back to the exact location where they appear. This can potentially lay the foundation for a large scale verification of web content. 
 
-**Increased (scientific) literacy in our global society through a better information quality on the internet.**
 
 
 
 <br>
 ## Who is working on it?
-
-With the WorldBrain Team, we are now contributing to the work of the [Hypothes.is project and its team](https://hypothes.is/team/). 
-In the future we will be working together closely on our common goal of a better internet.
 
 [Visit our team repo](https://github.com/WorldBrain/TEAM) to check out who is working on WorldBrain project, which areas they work and want to work in and to find collaborateurs for joint development.
 
