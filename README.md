@@ -24,7 +24,7 @@ Our work will be the research and development ways to make verfication of web co
  - Performing individual searches through all of those sources at once, instead of searching every page manually or the whole web via google. 
  - Bookmarking, annotating, sharing and discussing web content with the community and the public. 
  
-**[>>Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/README.md)**
+**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/README.md)**
 
 However, the goal of this tool is to build a community of scientifically literate individuals to gather important meta data about the quality of web content and (in the long term) to ultimately train algorithms to detect various arguments in web content. ([What data will we gather from users?](http://www.worldbrain.io/open_and_social/))
 
