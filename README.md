@@ -7,14 +7,15 @@ Welcome to the WorldBrain project and great that you are also interested in impr
 Together we want to work on the goal of **Increased (scientific) literacy in our global society through a better information quality on the internet.**
 
 <br>
-## What is the long term vision of the WorldBrain project?
+## Long term vision of the WorldBrain project
 
 As the WorldBrain project, we aim to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts and to surface the most accurate content on the web. 
 Our work will be the research and development ways to make verfication of web content scalable and trustworthy.
 
 **For more detailed information on how we want to accomplish this,** [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md).
 
-### Our first step towards this vision: *WorldBrain Webmarks*
+<br>
+### The first step towards this vision: *WorldBrain Webmarks*
 
 *WorldBrain Webmarks* is an open souce web research tool for science communicators like science journalists, skeptics and scientists. It aims to make the 2 main elements of online research more efficient: **Content Discovery and Knowledge Management**
 
@@ -27,7 +28,9 @@ Our work will be the research and development ways to make verfication of web co
 
 However, the goal of this tool is to build a community of scientifically literate individuals to gather important meta data about the quality of web content and (in the long term) to ultimately train algorithms to detect various arguments in web content. ([What data will we gather from users?](http://www.worldbrain.io/open_and_social/))
 
-In a second stage, we then apply those algorithms on a larger amount of web content allows creating a list of the most influential arguments. These can then be verified with crowdsourced templates that we can link back to the exact location where they appear. This can potentially lay the foundation for a large scale verification of web content. 
+In a second stage, we then apply those algorithms on a larger amount of web content allows creating a list of the most influential arguments. These can then be verified with crowdsourced templates ([Demo](http://arguments.worldbrain.io/?p=326)) that we can link back to the exact location where they appear. This can potentially lay the foundation for a large scale verification of web content. 
+
+<br>
 
 ## Current Status of Development
 
@@ -58,7 +61,6 @@ Currently we are working on the feature of retrieving relevant content from a **
 <br>
 ## License
 
-[![License badge](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/hypothesis/h/blob/master/LICENSE)
-Hypothes.is as well as WorldBrain's Webmarks are released under the [BSD 2-Clause license](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE).
+[![License badge](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE) WorldBrain Webmarks  released under the [BSD 2-Clause license](https://github.com/WorldBrain/START-HERE/blob/master/LICENSE).
 
 
