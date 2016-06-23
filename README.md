@@ -23,6 +23,8 @@ Our work will be the research and development ways to make verfication of web co
  - Automatically retrieving related content for articles, blog posts and scientific papers from a **personal/science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
  - Performing individual searches through all of those sources at once, instead of searching every page manually or the whole web via google. 
  - Bookmarking, annotating, sharing and discussing web content with the community and the public. 
+ - Possibility for developers and data journalists/scientists to add new ways of putting web content into context, for example by displaying Altmetric data or scholarly citations. 
+
  
 **[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/blob/master/README.md)**
 
