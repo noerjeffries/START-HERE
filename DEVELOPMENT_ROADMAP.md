@@ -1,10 +1,10 @@
 # Roadmaps
 
 
-1. Current State of Development
-2. Next Milestones
-2. Feature Roadmap
-3. WorldBrain's 10 Year Roadmap
+1. [Latest Development News](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#latest-development-news)
+2. [Next Milestones](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#next-milestones)
+2. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#feature-roadmap-for-webmarks)
+3. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#worldbrains-10-year-roadmap)
 
 <br>
 
@@ -14,7 +14,7 @@ To stay updated about WorldBrain's progress, check out our 2-3 minute sprint rep
 
 We just published our first prototype with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
 
-Currently we are working on the feature of retrieving relevant content from a **science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
+Currently we are working on the feature to be able to keywords search through the content of outlets **science community** trusts. (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) 
 
 **[>> Want to have a specific source indexed?](www.worldbrain.io/install_bookmarklet/)** 
 
@@ -58,7 +58,7 @@ There are endless opportunities to do this and we surely won’t cover all of th
 
 <br>
 <br>
-## WorldBrain's 10 year roadmap
+## WorldBrain's 10 Year Roadmap
 
 We want to live in a a world, where the belief systems of our society are based on verifiable facts instead of rumours and misinformation, where we have less fear based, more rational public dialogues.
 
