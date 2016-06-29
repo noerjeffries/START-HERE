@@ -1,22 +1,16 @@
 # Roadmaps
 
 
-1. [Latest Development News](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#latest-development-news)
-2. [Next Milestones](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#next-milestones)
-2. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#feature-roadmap-for-webmarks)
-3. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/DEVELOPMENT_ROADMAP.md#worldbrains-10-year-roadmap)
+1. [Latest Development News](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#latest-development-news)
+2. [Next Milestones](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#next-milestones)
+2. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#feature-roadmap-for-webmarks)
+3. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap)
 
 <br>
 
 ## Latest Development News
 
-To stay updated about WorldBrain's progress, check out our 2-3 minute sprint report video and the extended blog post, we publish every 2nd Wednesday [on our blog](www.worldbrain.io/blog/).
-
-We just published our first prototype with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
-
-Currently we are working on the feature to be able to keywords search through the content of outlets **science community** trusts. (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) 
-
-**[>> Want to have a specific source indexed?](www.worldbrain.io/install_bookmarklet/)** 
+See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/master/README.md#latest-development-news)
 
 <br>
 
