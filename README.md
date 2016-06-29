@@ -14,7 +14,7 @@ To stay updated about WorldBrain's progress, check out our 2-3 minute sprint rep
 
 #### Latest
 We just published our first prototype with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
-
+  
 #### Next Step
 Currently we are working on the feature to search through the content of outlets (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) that have been **flagged as trustworthy by our science community** 
 
