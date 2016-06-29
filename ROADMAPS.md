@@ -61,6 +61,8 @@ We follow an ambitious long-term goal, yet we are able to deliver immediate valu
 
 
 ### STAGE 1: WorldBrain's Webmarks (year 0-3)
+
+#### Background
 Historical approaches to crowdsourced fact-checking, like factlink.com or grasswire.com, didn’t reach a critical mass of contributors, because there was no personal value for users to contribute.
 
 This is why, in a first step, we build Webmarks; an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster.
