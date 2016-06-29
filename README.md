@@ -7,42 +7,60 @@ Welcome to the WorldBrain project and great that you are also interested in impr
 Together we want to work on the goal of **Increased (scientific) literacy in our global society through a better information quality on the internet.**
 
 <br>
-## Long term vision of the WorldBrain project
 
-As the WorldBrain project, we aim to develop a browser plugin to see if an article or blog post you read is trustworthy, based on how well it represents scientifically verifiable facts and to surface the most accurate content on the web. 
-Our work will be the research and development ways to make verfication of web content scalable and trustworthy.
+## Latest Development News
 
-**For more detailed information on how we want to accomplish this,** [check out our roadmap](https://github.com/WorldBrain/VISION-ROADMAP-FEATURES/blob/master/README.md).
-
-<br>
-### The first step towards this vision: *WorldBrain Webmarks*
-
-*WorldBrain Webmarks* is an open souce web research tool for science communicators like science journalists, skeptics and scientists. It aims to make the 2 main elements of online research more efficient: **Content Discovery and Knowledge Management**
-
-#### Key Features
- - Automatically retrieving related content for articles, blog posts and scientific papers from a **personal/science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
- - Performing individual searches through all of those sources at once, instead of searching every page manually or the whole web via google. 
- - Bookmarking, annotating, sharing and discussing web content with the community and the public. 
- - Possibility for developers and data journalists/scientists to add new ways of putting web content into context, for example by displaying Altmetric data or scholarly citations. 
-
- 
-**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/blob/master/README.md)**
-
-However, the goal of this tool is to build a community of scientifically literate individuals to gather important meta data about the quality of web content and (in the long term) to ultimately train algorithms to detect various arguments in web content. ([What data will we gather from users?](http://www.worldbrain.io/open_and_social/))
-
-In a second stage, we then apply those algorithms on a larger amount of web content allows creating a list of the most influential arguments. These can then be verified with crowdsourced templates ([Demo](http://arguments.worldbrain.io/?p=326)) that we can link back to the exact location where they appear. This can potentially lay the foundation for a large scale verification of web content. 
-
-<br>
-
-## Current Status of Development
-
-We just published our first proof of concept with the channel "Related Content" which is powered by [Laterals News API](https://lateral.io/publishing) and is broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
-
-**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/blob/master/README.md)**
+We just published our first prototype with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
 
 Currently we are working on the feature of retrieving relevant content from a **science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
 
-**[>> Want to have a specific source indexed?](https://github.com/WorldBrain/Webmarks/blob/master/helper_processes/index_sources.md)** 
+**[>> Want to have a specific source indexed?](www.worldbrain.io/install_bookmarklet/)** 
+
+To stay updated about WorldBrain's progress, check out our 2-3 minute sprint report video and the extended blog post, we publish every 2nd Wednesday [on our blog](www.worldbrain.io/blog/).
+
+
+## Vision of the WorldBrain project
+
+In 10 years, we want to be able to provide the general public with a browser plugin that shows the accuracy and trustworthiness of web content, based on how well it represents scientifically verifiable facts. 
+We follow an ambitious long-term goal, yet we are able to deliver immediate value to users and contribute to scientific literacy in the public at each step of our path.
+
+**For more detailed information on how we want to accomplish this,** [check out our 10 year roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap).
+
+<br>
+### The first step: *WorldBrain Webmarks*
+
+This is why, in a first step, we build Webmarks; an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster.
+The strategic purpose of Webmarks is to build a large community of scientifically literate individuals and be an integral part of their day-to-day online web research.
+
+By analysing our user’s workflows, users already contribute at this stage with important metadata about the quality of different websites and their content.  ([What data will we gather from users?](http://www.worldbrain.io/open_and_socia
+
+#### The user’s problem:
+For people doing web research, it is a very time consuming process to find quality scientific content related to the immediate (news)article or their overall web research goal. 
+
+To get this information, users currently have to search through all of their trusted outlets (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) separately or use google, where they are unable to filter for their trusted sources. 
+
+#### Webmarks’ key features:
+ - A search engine in the form of browser-sidebar, that lets users perform keyword searches through a list of outlets flagged by the user and/or our scientific community as trustworthy.
+ - A recommendation engine to get related content to the immediate article, also only from these trusted sources, displayed in the sidebar. 
+ - Additional meta browsing channels to put the immediate content into other contexts. For example by displaying Altmetric data in the sidebar or highlighting Wikipedia entries in the text.
+ There are endless opportunities to do this and we surely won’t cover all of them. That is why we open up this platform to developers and organisations to add new channels and distribute them to users.
+
+To get a feeling for how it works, [watch our short demo video.](https://www.youtube.com/watch?v=mWLg1awM3BE)
+
+For more information on our roadmaps, look in the next section. 
+
+<br>
+
+### Roadmaps
+
+##### 1. [Latest Development News](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#latest-development-news)
+##### 2. [Next Milestones](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#next-milestones)
+##### 3. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#feature-roadmap-for-webmarks)
+##### 4. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap)
+
+
+
+
 
 
 <br>
