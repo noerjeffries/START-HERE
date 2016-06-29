@@ -1,12 +1,8 @@
-## Current state of development
+## Latest Development News
 
-We just published our first proof of concept with the channel "Related Content" which is powered by [Laterals News API](https://lateral.io/publishing) and is broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
+See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/master/README.md#latest-development-news)
 
-**[>> Check out the working demo and the near term development roadmap](https://github.com/WorldBrain/Webmarks/blob/master/README.md)**
-
-Currently we are working on the feature of retrieving relevant content from a **science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
-
-**[>> Want to have a specific source indexed?](https://github.com/WorldBrain/Webmarks/blob/master/helper_processes/index_sources.md)** 
+<br>
 
 ## How to stay updated with ease
  1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
@@ -16,7 +12,7 @@ Currently we are working on the feature of retrieving relevant content from a **
 
 ## How to currently contribute best
  1. [Check out some open tasks to code on](https://github.com/WorldBrain/Webmarks/issues)
- 2. [Showing us which which websites you trust and we should index first](https://github.com/WorldBrain/Webmarks/blob/master/helper_processes/index_sources.md)
+ 2. Showing us which which websites you trust and we should index first[Why and How?](http://www.worldbrain.io/install_bookmarklet)
 <br>
 
 ## How to make your first pull request
