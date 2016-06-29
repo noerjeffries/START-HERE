@@ -32,10 +32,11 @@ We follow an ambitious long-term goal, yet we are able to deliver immediate valu
 
 ### The first step: *WorldBrain Webmarks*
 
-Webmarks is an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster and to get meta content to the immediate articles via a sidebar. 
+Webmarks is an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster and to get various meta information to the currently visited articles via a sidebar. 
+
 The strategic purpose of Webmarks is to build a large community of scientifically literate individuals and be an integral part of their day-to-day online web research.
 
-By analysing our user’s workflows, users already contribute at this stage with important metadata about the quality of different websites and their content.  ([What data will we gather from users?](http://www.worldbrain.io/open_and_socia
+By analysing our user’s workflows, users already contribute at this stage with important metadata about the quality of different websites and their content.  ([What data will we gather from users?](http://www.worldbrain.io/open_and_social)
 
 #### The user’s problem:
 For people doing web research, it is a very time consuming process to find quality scientific content related to the immediate (news)article or their overall web research goal. 
