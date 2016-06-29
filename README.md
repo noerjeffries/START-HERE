@@ -36,7 +36,7 @@ Webmarks is an open-source SaaS tool for science communicator like scientists, s
 
 The strategic purpose of Webmarks is to build a large community of scientifically literate individuals and be an integral part of their day-to-day online web research.
 
-By analysing our user’s workflows, users already contribute at this stage with important metadata about the quality of different websites and their content.  ([What data will we gather from users?](http://www.worldbrain.io/open_and_social)
+By analysing our user’s workflows, users already contribute at this stage with important metadata about the quality of different websites and their content.  ([What data will we gather from users?](http://www.worldbrain.io/open_and_social))
 
 #### The user’s problem:
 For people doing web research, it is a very time consuming process to find quality scientific content related to the immediate (news)article or their overall web research goal. 
