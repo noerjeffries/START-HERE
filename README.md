@@ -18,7 +18,7 @@ We just published our first prototype with the channel "Related Content" , power
 #### Next Step
 Currently we are working on the feature to search through the content of outlets (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) that have been **flagged as trustworthy by our science community** 
 
-**[>> Want to have a specific source indexed?](www.worldbrain.io/install_bookmarklet/)** 
+**[>> Want to have a specific source indexed?](http://www.worldbrain.io/install_bookmarklet/)** 
 
 
 <br>
