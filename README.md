@@ -10,14 +10,18 @@ Together we want to work on the goal of **Increased (scientific) literacy in our
 
 ## Latest Development News
 
+To stay updated about WorldBrain's progress, check out our 2-3 minute sprint report video and the extended blog post, we publish every 2nd Wednesday [on our blog](www.worldbrain.io/blog/).
+
+#### Latest
 We just published our first prototype with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
 
-Currently we are working on the feature of retrieving relevant content from a **science community-trusted** network of blogs, news outlets, facebook groups/pages and scholarly(PubMed) or governmental(FDA) databases.
+#### Next Step
+Currently we are working on the feature to search through the content of outlets (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) that have been **flagged as trustworthy by our science community** 
 
 **[>> Want to have a specific source indexed?](www.worldbrain.io/install_bookmarklet/)** 
 
-To stay updated about WorldBrain's progress, check out our 2-3 minute sprint report video and the extended blog post, we publish every 2nd Wednesday [on our blog](www.worldbrain.io/blog/).
 
+<br>
 
 ## Vision of the WorldBrain project
 
@@ -26,7 +30,6 @@ We follow an ambitious long-term goal, yet we are able to deliver immediate valu
 
 **For more detailed information on how we want to accomplish this,** [check out our 10 year roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap).
 
-<br>
 ### The first step: *WorldBrain Webmarks*
 
 This is why, in a first step, we build Webmarks; an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster.
@@ -51,17 +54,11 @@ For more information on our roadmaps, look in the next section.
 
 <br>
 
-### Roadmaps
+## (Development) Roadmaps
 
-##### 1. [Latest Development News](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#latest-development-news)
-##### 2. [Next Milestones](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#next-milestones)
-##### 3. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#feature-roadmap-for-webmarks)
-##### 4. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap)
-
-
-
-
-
+##### 1. [Next Milestones](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#next-milestones)
+##### 2. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#feature-roadmap-for-webmarks)
+##### 3. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap)
 
 <br>
 
