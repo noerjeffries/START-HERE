@@ -17,15 +17,27 @@ See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/mast
 
 ## Next Milestones
 
-#### [Search Engine Prototype](https://github.com/WorldBrain/Webmarks/milestones/Search%20Prototype) (Due by July 17, 2016)
+**Click title to see corresponding tasks.**
 
-A simple google-like landingpage to enter search queries and get search result from a list of sources trusted by the scientific community. 
+#### [Search Engine Proof-of-Concept](https://github.com/WorldBrain/Webmarks/milestones/Search%20Prototype) (Due by July 17, 2016)
+
+Our first prototypical search engine that lets users perform keyword searches through a list of outlets flagged by or our scientific community as trustworthy. (Blogs, Websites, Facebook groups/pages, scholarly and governmental DBs)
+Users enter the queries via a simple search field, similar to Google, we deliver as a list of results. 
+
+It serves as a proof of concept for the pipeline from search query to search output.
+If we have that we can work on stability, precision and data base extension.
+ 
 
 #### [Planning Freeze for MVP Features and Architecture](https://github.com/WorldBrain/Webmarks/milestones/Planning%20Freeze%20for%20MVP) (Due by July 23, 2016)
 We want to have evaluated our options to build the prototype and planned the necessary features, so we can start the development on our **Minimum Viable Product**(MVP)
 
 #### [Release Minimum Viable Product](https://github.com/WorldBrain/Webmarks/milestones/Minimum%20Viable%20Product) (Due date to be planned)
-The release of the product that encapsules the set of features necessary, so we can call Webmarks a product.
+This is the milestone for our MVP, which delivers the most important user facing features required to have a useful product.
+General Requirements:
+ - The sidebar
+ - The search engine to search through community trusted outlets (blogs, websites, FB groups/pages etc.)
+ - The recommendation engine to get related content from those outlets
+ - Personalisation of searched outlets.
 
 <br>
 
