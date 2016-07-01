@@ -25,7 +25,7 @@ Our first prototypical search engine that lets users perform keyword searches th
 Users enter the queries via a simple search field, similar to Google, we deliver as a list of results. 
 
 It serves as a proof of concept for the pipeline from search query to search output.
-If we have that we can work on stability, precision and data base extension.
+If we have that we can work on stability, precision and database extension.
  
 
 #### [Planning Freeze for MVP Features and Architecture](https://github.com/WorldBrain/Webmarks/milestones/Planning%20Freeze%20for%20MVP) (Due by July 23, 2016)
