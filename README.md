@@ -10,15 +10,16 @@ Together we want to work on the goal of **Increased (scientific) literacy in our
 
 ## Latest Development News
 
-To stay updated about WorldBrain's progress, check out our 2-3 minute sprint report video and the extended blog post, we publish every 2nd Wednesday [on our blog](www.worldbrain.io/blog/).
+**To stay updated about WorldBrain's progress**, check out **[our 2-3 minute sprint report video](www.worldbrain.io/2016/blog/)**, we publish every 2nd Wednesday or subscribe to our **[developer mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list).
+
 
 #### Latest
-We just published our first prototype with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
+We just published [our first prototype](http://www.worldbrain.io/sprint_report_9/) with the channel "Related Content" , powered by [Laterals News API](https://lateral.io/publishing) and broadcasted into a [Hypothes.is group](https://hypothes.is/groups/KG9bL1Bm/related-articles).
   
 #### Next Step
 Currently we are working on the feature to search through the content of outlets (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) that have been **flagged as trustworthy by our science community** 
 
-**[>> Want to have a specific source indexed?](http://www.worldbrain.io/install_bookmarklet/)** 
+>> [Want to contribute to this?]()
 
 
 <br>
@@ -32,7 +33,9 @@ We follow an ambitious long-term goal, yet we are able to deliver immediate valu
 
 ### The first step: *WorldBrain Webmarks*
 
-Webmarks is an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster and to get various meta information to the currently visited articles via a sidebar. 
+Historical approaches to crowdsourced fact-checking, like factlink.com or grasswire.com, didn’t reach a critical mass of contributors, because there was no personal value for users to contribute.
+
+That is why with Webmarks, we develop an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster and to get various meta information to the currently visited articles via a sidebar. 
 
 The strategic purpose of Webmarks is to build a large community of scientifically literate individuals and be an integral part of their day-to-day online web research.
 
@@ -61,19 +64,25 @@ More details about Webmarks, you find it here: [WorldBrain/Webmarks/README.md](h
 ##### 2. [Feature Roadmap for Webmarks](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#feature-roadmap-for-webmarks)
 ##### 3. [WorldBrain's 10 Year Roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap)
 
-<br>
-
-## How to contact us and stay updated with ease
- 1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
- 2. Subscribe to the WorldBrain developer **[mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**
- 3. Check out our [Gitter chat](https://gitter.im/WorldBrain/Webmarks)
- 4. Write us an email: [info@worldbrain.io](mailto:info@worldbrain.io)
-
 
 <br>
-## How can I contribute?
+## Areas to Contribute
 
-[Visit our CONTRIBUTING.md](https://github.com/WorldBrain/START-HERE/blob/master/CONTRIBUTING.md)
+#### [TEAM: Crawler](https://github.com/WorldBrain/TEAM/issues/23)
+
+The goal of this team is to make web content & data accessible to be analysed. 
+
+Means crawling websites, making connections to APIs and databases or building web crawlers that index the content of websites, enable us to extract various data from their content and make it available for other teams in the project. (.i.e. TEAM: Search-Engine)
+
+#### [TEAM: Search-Engine](https://github.com/WorldBrain/TEAM/issues/24)
+
+The goal of this team is to conceptualise and constantly improve the search engine (and later the recommendation engine), so that users can search through the content of the sources the science community trusts. #MachineLearning #DataScience #NLP 
+
+#### [TEAM: WorldBrain Client](https://github.com/WorldBrain/TEAM/issues/25)
+
+The goal of this team is to build and constantly improve the WorldBrain client.
+Means for example the front- and back-end architecture of the sidebar or the browser plugin.
+
 
 <br>
 ## Who is working on it?
