@@ -4,12 +4,12 @@ See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/mast
 
 <br>
 
-<br>
-
 ## How to stay updated about WorldBrain's progress
  1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
  2. Subscribe to the WorldBrain developer **[mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**
  3. Check out our [Gitter chat](https://gitter.im/WorldBrain/Webmarks)
+
+<br>
 
 
 
@@ -30,14 +30,6 @@ The goal of this team is to conceptualise and constantly improve the search engi
 The goal of this team is to build and constantly improve the WorldBrain client.
 Means for example the front- and back-end architecture of the sidebar or the browser plugin.
 
-
-
-<br>
-
-## How to stay updated with ease
- 1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
- 2. Subscribe to the WorldBrain developer **[mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**
- 3. Check out our [Gitter chat](https://gitter.im/WorldBrain/Webmarks)
 
 <br>
 
