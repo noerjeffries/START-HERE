@@ -4,6 +4,14 @@ See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/mast
 
 <br>
 
+<br>
+
+## How to stay updated about WorldBrain's progress
+ 1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
+ 2. Subscribe to the WorldBrain developer **[mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**
+ 3. Check out our [Gitter chat](https://gitter.im/WorldBrain/Webmarks)
+
+
 
 ## Areas to Contribute
 
@@ -24,21 +32,13 @@ Means for example the front- and back-end architecture of the sidebar or the bro
 
 
 
-
-
-
-
-
+<br>
 
 ## How to stay updated with ease
  1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
  2. Subscribe to the WorldBrain developer **[mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**
  3. Check out our [Gitter chat](https://gitter.im/WorldBrain/Webmarks)
 
-
-## How to currently contribute best
- 1. [Check out some open tasks to code on](https://github.com/WorldBrain/Webmarks/issues)
- 2. Showing us which which websites you trust and we should index first[Why and How?](http://www.worldbrain.io/install_bookmarklet)
 <br>
 
 ## How to make your first pull request
