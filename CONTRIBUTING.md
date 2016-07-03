@@ -4,6 +4,32 @@ See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/mast
 
 <br>
 
+
+## Areas to Contribute
+
+#### [TEAM: Crawler](https://github.com/WorldBrain/TEAM/issues/23)
+
+The goal of this team is to make web content & data accessible to be analysed. 
+
+Means crawling websites, making connections to APIs and databases or building web crawlers that index the content of websites, enable us to extract various data from their content and make it available for other teams in the project. (.i.e. TEAM: Search-Engine)
+
+#### [TEAM: Search-Engine](https://github.com/WorldBrain/TEAM/issues/24)
+
+The goal of this team is to conceptualise and constantly improve the search engine (and later the recommendation engine), so that users can search through the content of the sources the science community trusts. #MachineLearning #DataScience #NLP 
+
+#### [TEAM: WorldBrain Client](https://github.com/WorldBrain/TEAM/issues/25)
+
+The goal of this team is to build and constantly improve the WorldBrain client.
+Means for example the front- and back-end architecture of the sidebar or the browser plugin.
+
+
+
+
+
+
+
+
+
 ## How to stay updated with ease
  1. Check out our **[2-3 minute sprint report video](www.worldbrain.io/2016/blog/)** we publish every two weeks on our blog.
  2. Subscribe to the WorldBrain developer **[mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**
