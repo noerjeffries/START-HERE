@@ -10,7 +10,7 @@ Together we want to work on the goal of **Increased (scientific) literacy in our
 
 ## Latest Development News
 
-**To stay updated about WorldBrain's progress**, check out **[our 2-3 minute sprint report video](www.worldbrain.io/2016/blog/)**, we publish every 2nd Wednesday or subscribe to our **[developer mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list).
+**To stay updated about WorldBrain's progress**, check out **[our 2-3 minute sprint report video](www.worldbrain.io/2016/blog/)**, we publish every 2nd Wednesday or subscribe to our **[developer mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**.
 
 
 #### Latest
