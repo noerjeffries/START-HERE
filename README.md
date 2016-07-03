@@ -27,15 +27,18 @@ Currently we are working on the feature to search through the content of outlets
 ## Vision of the WorldBrain project
 
 In 10 years, we want to be able to provide the general public with a browser plugin that shows the accuracy and trustworthiness of web content, based on how well it represents scientifically verifiable facts. 
+
 We follow an ambitious long-term goal, yet we are able to deliver immediate value to users and contribute to scientific literacy in the public at each step of our path.
 
 **For more detailed information on how we want to accomplish this,** [check out our 10 year roadmap](https://github.com/WorldBrain/START-HERE/blob/master/ROADMAPS.md#worldbrains-10-year-roadmap).
 
 ### The first step: *WorldBrain Webmarks*
 
-Historical approaches to crowdsourced fact-checking, like factlink.com or grasswire.com, didn’t reach a critical mass of contributors, because there was no personal value for users to contribute.
+#### Background
 
-That is why with Webmarks, we develop an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster and to get various meta information to the currently visited articles via a sidebar. 
+Historical approaches to crowdsourced fact-checking, like [factlink.com](https://factlink.com) or [grasswire.com](https://grasswire.com/), didn’t reach a critical mass of contributors, because there was no personal value for users to contribute.
+
+This is why with Webmarks, we develop an open-source SaaS tool for science communicator like scientists, science writer and the skeptical communities to find quality scientific web content faster and to get various meta information to the currently visited articles via a sidebar. 
 
 The strategic purpose of Webmarks is to build a large community of scientifically literate individuals and be an integral part of their day-to-day online web research.
 
