@@ -19,7 +19,7 @@ We just published [our first prototype](http://www.worldbrain.io/sprint_report_9
 #### Next Step
 Currently we are working on the feature to search through the content of outlets (i.e. blogs, news, facebook groups/pages, scholarly and governmental databases) that have been **flagged as trustworthy by our science community** 
 
->> [Want to contribute to this?]()
+#### >> [Want to contribute to this?](https://github.com/WorldBrain/START-HERE/blob/master/README.md#areas-to-contribute)
 
 
 <br>
