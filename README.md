@@ -75,15 +75,15 @@ More details about Webmarks, you find it here: [WorldBrain/Webmarks/README.md](h
 
 The goal of this team is to make web content & data accessible to be analysed. 
 
-Means crawling websites, making connections to APIs and databases or building web crawlers that index the content of websites, enable us to extract various data from their content and make it available for other teams in the project. (.i.e. TEAM: Search-Engine)
+Means crawling/parsing websites, building connections to APIs and databases and make their content available to be analysed by other teams in the project. (.i.e. TEAM: DataScience)
 
-#### [TEAM: Search-Engine](https://github.com/WorldBrain/TEAM/issues/24)
+#### [TEAM: DataScience](https://github.com/WorldBrain/TEAM/issues/24)
 
 The goal of this team is to conceptualise and constantly improve the search engine (and later the recommendation engine), so that users can search through the content of the sources the science community trusts. #MachineLearning #DataScience #NLP 
 
-#### [TEAM: WorldBrain Client](https://github.com/WorldBrain/TEAM/issues/25)
+#### [TEAM: Client](https://github.com/WorldBrain/TEAM/issues/25)
 
-The goal of this team is to build and constantly improve the WorldBrain client.
+The goal of this team is to build and constantly improve the WorldBrain client (Webmarks).
 Means for example the front- and back-end architecture of the sidebar or the browser plugin.
 
 
