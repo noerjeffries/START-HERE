@@ -19,7 +19,7 @@ See in [Start-Here/README.md](https://github.com/WorldBrain/START-HERE/blob/mast
 
 **Click title to see corresponding tasks.**
 
-#### [Search Engine Proof-of-Concept](https://github.com/WorldBrain/Webmarks/milestones/Search%20Prototype) (Due by July 17, 2016)
+#### [Search Engine Proof-of-Concept](https://github.com/WorldBrain/Webmarks/milestones/Search%20Prototype)
 
 Our first prototypical search engine that lets users perform keyword searches through a list of outlets flagged by or our scientific community as trustworthy. (Blogs, Websites, Facebook groups/pages, scholarly and governmental DBs)
 Users enter the queries via a simple search field, similar to Google, we deliver as a list of results. 
@@ -28,10 +28,10 @@ It serves as a proof of concept for the pipeline from search query to search out
 If we have that we can work on stability, precision and database extension.
  
 
-#### [Planning Freeze for MVP Features and Architecture](https://github.com/WorldBrain/Webmarks/milestones/Planning%20Freeze%20for%20MVP) (Due by July 23, 2016)
+#### [Planning Freeze for MVP Features and Architecture](https://github.com/WorldBrain/Webmarks/milestones/Planning%20Freeze%20for%20MVP)
 We want to have evaluated our options to build the prototype and planned the necessary features, so we can start the development on our **Minimum Viable Product**(MVP)
 
-#### [Release Minimum Viable Product](https://github.com/WorldBrain/Webmarks/milestones/Minimum%20Viable%20Product) (Due date to be planned)
+#### [Release Minimum Viable Product](https://github.com/WorldBrain/Webmarks/milestones/Minimum%20Viable%20Product)
 This is the milestone for our MVP, which delivers the most important user facing features required to have a useful product.
 General Requirements:
  - The sidebar
