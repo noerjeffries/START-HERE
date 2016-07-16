@@ -9,6 +9,11 @@ Together we want to work on the goal of **Increased (scientific) literacy in our
 <br>
 
 ## Latest Development News
+<BR>
+
+### >>>>  We are looking [for a DEVELOPER TEAM LEAD](http://www.worldbrain.io/jobs/)<<<<
+
+<BR>
 
 **To stay updated about WorldBrain's progress**, check out **[our 2-3 minute sprint report video](www.worldbrain.io/2016/blog/)**, we publish every 2nd Wednesday or subscribe to our **[developer mailing list](https://groups.google.com/forum/#!forum/worldbrain-dev-mailing-list)**.
 
@@ -85,6 +90,19 @@ The goal of this team is to conceptualise and constantly improve the search engi
 
 The goal of this team is to build and constantly improve the WorldBrain client (Webmarks).
 Means for example the front- and back-end architecture of the sidebar or the browser plugin.
+
+
+<br>
+## Technologies and Services
+
+ - Python
+ - ReactJS
+ - ElasticSearch
+ - Gensim
+ - Docker
+ - Travis
+ - Django
+ - PostgreSQL
 
 
 <br>
